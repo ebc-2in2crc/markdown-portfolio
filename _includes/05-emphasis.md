@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+このテキストは普通に表示する
+
+_このテキストはイタリックで表示する_
+
+**このテキストは太字で表示する**
+
+_**このテキストは太字とイタリックで表示する**_
