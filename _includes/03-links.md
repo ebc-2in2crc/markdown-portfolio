@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[LICENSE](https://github.com/ebc-2in2crc/markdown-portfolio/blob/masater/LICENSE)
